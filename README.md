@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--> This is Ishika Kulkarni
+
+Curently persuing BTech Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning from VIT Bhopal University.
+
+⚡Content Writing and Digital Marketing Lead at DSC VIT Bhopal <br>
+⚡Club-Coordinator and Content Head at AI Club <br>
