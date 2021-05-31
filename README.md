@@ -23,6 +23,7 @@ Curently persuing BTech Computer Science Engineering with specialisation in Arti
 
  <hr>
  🌱 Stats:
+ <br>
 
 [![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishika13)](https://github.com/ishika13/github-readme-stats)
 <br>
