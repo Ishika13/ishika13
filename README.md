@@ -21,6 +21,9 @@ Curently persuing BTech Computer Science Engineering with specialisation in Arti
 ⚡Content Writing and Digital Marketing Lead at DSC VIT Bhopal <br>
 ⚡Club-Coordinator and Content Head at AI Club <br>
 
+ <hr>
+ 🌱 Stats:
+
 [![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishika13)](https://github.com/ishika13/github-readme-stats)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishika13&theme=default)](https://github.com/ishika13/github-readme-stats)
