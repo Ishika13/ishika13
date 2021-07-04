@@ -26,8 +26,6 @@ Curently persuing BTech Computer Science Engineering with specialisation in Arti
 
 [![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishika13)](https://github.com/ishika13/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishika13&theme=default)](https://github.com/ishika13/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishika13&langs_count=10)](https://github.com/ishika13/github-readme-stats)
 
 
