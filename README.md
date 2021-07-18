@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Curently persuing BTech Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning from VIT Bhopal University.
 
-⚡DSC Lead at VIT Bhopal 
+⚡DSC Lead at VIT Bhopal <br>
 ⚡Former Content Writing and Digital Marketing Lead at DSC VIT Bhopal <br>
 ⚡Club-Coordinator and Content Head at AI Club <br>
 
