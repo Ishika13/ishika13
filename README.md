@@ -1,5 +1,4 @@
-### Hello there 👋 <br>
-Welcome to my profile! Thanks for stopping by here in this digital jungle of first issues and pull requests.
+
 
 
 <!--
