@@ -5,7 +5,7 @@
 **Ishika13/ishika13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --> 
-
+![Ishika13](Hello_there.svg)
 ### About Me:<br>
 This is Ishika Kulkarni, a pre-final year student at Vellore Institute of Technology, Bhopal University. Currently I am pursuing BTech in Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning.
 <br>  
