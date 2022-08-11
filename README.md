@@ -27,11 +27,11 @@ I am passionate about building projects that solve meaningful problems, being a 
 ### Techstack:
 
 #### Development platforms
-Android, Web, Flutter
+Android, Web
 #### Languages familiar with
-C, C++, Java, Python, R, MySQL, Dart, Kotlin
+Java, Python, R, MySQL
 #### Technologies interested in
-Machine Learning, Artificial Intelligence, Computer Vision, Deep Learning, Data Analytics, Data Visualisation
+Machine Learning, Natural Language Processing, Computer Vision, Data Analytics, Data Visualisation
 
 <img src = "https://github.com/Ishika13/ishika13/blob/main/yoga.svg" width = "260px" height = "260px" align = left>
 
