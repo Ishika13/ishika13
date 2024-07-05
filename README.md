@@ -29,9 +29,9 @@ I am passionate about building projects that solve meaningful problems, being a 
 #### Development platforms
 Android, Web
 #### Languages familiar with
-Java, Python, R, MySQL
+Kotlin, Java, Python, R, MySQL
 #### Technologies interested in
-Machine Learning, Natural Language Processing, Computer Vision, Data Analytics, Data Visualisation
+Natual Language processing, Machine Learning, Computer Vision, Data Analytics, Data Visualisation
 
 <img src = "https://github.com/Ishika13/ishika13/blob/main/yoga.svg" width = "260px" height = "260px" align = left>
 
@@ -45,9 +45,6 @@ Machine Learning, Natural Language Processing, Computer Vision, Data Analytics, 
 
 When I'm not working on amazing new ideas, I find time to read, write or do yoga to free my mind and keep my body fit. But when I need a good boost of energy and creativity, nothing beats a cup of coffee.
 <br>
-### Stats:
-
-[![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishika13)](https://github.com/ishika13/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishika13&layout=compact)](https://github.com/ishika13/github-readme-stats)
 
 ### Connect with me:
 <ul>
