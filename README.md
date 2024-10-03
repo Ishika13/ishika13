@@ -5,46 +5,14 @@
 **Ishika13/ishika13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --> 
-![Ishika13](Hello_there.svg)
 ### About Me:<br>
-This is Ishika Kulkarni, a pre-final year student at Vellore Institute of Technology, Bhopal University. Currently I am pursuing BTech in Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning.
-<br>  
-I am passionate about building projects that solve meaningful problems, being a big believer in helping others realize their full potential, especially when it boils down to female developers.  
-<br>
-*We are not here for a long time, but we are here to strike.* 
+Ishika Kulkarni | Natural Language Processing Grad @ UC Santa Cruz
 
+Currently a graduate student specializing in NLP with a strong understanding of AI and ML.
 
+Before attending grad school, I completed a Bachelor's degree in Computer Science Engineering with a focus on Artificial Intelligence and Machine Learning at VIT Bhopal University. During my undergraduate studies, I actively participated in projects and student organizations, acquiring valuable hands-on experience.
 
-### Community Experiences:
-<ul>
-<li>Google Developers Student Club Lead at VIT Bhopal University </li>
-<li>Former Content Writing and Digital Marketing Lead at GDSC VIT Bhopal </li>
-<li>Former Club-Coordinator and Content Head at AI Club </li>
-</ul>
-
-<img src = "https://github.com/Ishika13/ishika13/blob/main/coffee.gif" width = "300px" height = "300px" align = right>
-
-### Techstack:
-
-#### Development platforms
-Android, Web
-#### Languages familiar with
-Kotlin, Java, Python, R, MySQL
-#### Technologies interested in
-Natual Language processing, Machine Learning, Computer Vision, Data Analytics, Data Visualisation
-
-<img src = "https://github.com/Ishika13/ishika13/blob/main/yoga.svg" width = "260px" height = "260px" align = left>
-
-### Non-Technical Skills
-<ul>
- <li> Public Speaking </li>
- <li> Technical Writing</li>
- <li> Social Media Management and Management</li>
- <li> Community Building </li>
-</ul>
-
-When I'm not working on amazing new ideas, I find time to read, write or do yoga to free my mind and keep my body fit. But when I need a good boost of energy and creativity, nothing beats a cup of coffee.
-<br>
+My industry experience at Signify Innovation Labs provided me with the opportunity to apply my academic knowledge to real-world situations.
 
 ### Connect with me:
 <ul>
