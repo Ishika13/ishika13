@@ -45,9 +45,6 @@ Artificial Intelligence, Natural Language Processing, Machine Learning, Deep Lea
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika13&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishika13&theme=default&hide_border=false)
-
-
 
           
           
