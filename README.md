@@ -23,10 +23,10 @@ Converting Caffeine into Code
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist" width="30" height="30" /> Interests
 
 - 📊 **Data Analytics and Data Science:** Predictive modeling, anomaly detection  
-- 🤖 **AI Systems:** Agents and agentic systems, Knowledge graphs, RAG  
+- 🤖 **AI Systems:** Agents and agentic systems, Evaluation, Knowledge graphs, RAG  
 - 🧠 **Machine Learning:** Reinforcement Learning, RLHF, Fine Tuning, Quantisation, Optimisation  
 - 🖼️ **Multimodal AI:** Reasoning models, vision models  
-- 📝 **Large Language Models:** Prompt engineering, few-shot learning, training and building models  
+- 📝 **Large Language Models:** Prompt engineering, few-shot learning, post-training and building models  
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Technical Proficiencies
 Artificial Intelligence, Natural Language Processing, Machine Learning, Deep Learning, Data Science, Data Analytics, Android, Flutter, LLMs, Model optimization, RAG, CAG
