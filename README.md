@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=435&lines=Hey+there!+This+is+Ishika!)](https://git.io/typing-svg) <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
+<p align="center">✨ Catch the full story at <a href="http://ishikakulkarni.me">ishikakulkarni.me</a> ✨ </p>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png"  width="30" height="30" /> About Me
 Grad student at the University of California, Santa Cruz, pursuing Artificial Intelligence enthusiast with a knack for building systems and blending tech with creativity!
 
